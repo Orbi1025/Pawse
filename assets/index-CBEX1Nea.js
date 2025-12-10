@@ -16909,7 +16909,7 @@ const _2 = () => {
           img: "/img/bear4.webp",
           title: "Buy $PAWSE",
           description:
-            "And that's how you ended up holding 8 figures of $PAWSE. Congrats.",
+            "And that's how you ended up holding 8 figures of $PAWSE. Congrats. 0xcomingsoon",
         },
       ],
       [l, a] = re.useState(1),
@@ -17223,15 +17223,15 @@ const _2 = () => {
       className: `MediaLinks ${d && "MediaLinks_large"}`,
       children: [
         et.jsx("a", {
-          href: "https://t.me/pawse_eth",
+          href: "https://t.me/Pawse_dog",
           children: et.jsx("img", { src: "/img/tg.png", alt: "" }),
         }),
         et.jsx("a", {
-          href: "https://x.com/the_pawse",
+          href: "https://x.com/Pawse_dog",
           children: et.jsx("img", { src: "/img/x.png", alt: "" }),
         }),
         et.jsx("a", {
-          href: "https://dexscreener.com/ethereum/0xd3bc30de65da0f7d02085677f6136bccfafcfaae",
+          href: "https://dexscreener.com/ethereum/0xcomingsoon",
           children: et.jsx("img", { src: "/img/dex.png", alt: "" }),
         }),
       ],
