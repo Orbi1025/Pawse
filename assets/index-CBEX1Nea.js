@@ -16909,7 +16909,7 @@ const _2 = () => {
           img: "/img/bear4.webp",
           title: "Buy $PAWSE",
           description:
-            "And that's how you ended up holding 8 figures of $PAWSE. Congrats. 0xcomingsoon",
+            "And that's how you ended up holding 8 figures of $PAWSE. Congrats. 0xa7d86ea7630c264efceee3ea7b5d91ad84b18c3b",
         },
       ],
       [l, a] = re.useState(1),
@@ -17231,7 +17231,7 @@ const _2 = () => {
           children: et.jsx("img", { src: "/img/x.png", alt: "" }),
         }),
         et.jsx("a", {
-          href: "https://dexscreener.com/ethereum/0xcomingsoon",
+          href: "https://dexscreener.com/ethereum/0xa7d86ea7630c264efceee3ea7b5d91ad84b18c3b",
           children: et.jsx("img", { src: "/img/dex.png", alt: "" }),
         }),
       ],
